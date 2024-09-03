@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D175235-C7DD-4CD6-A5A3-234063D09539"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "PhotoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - feaedd3b250ee1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.photoView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - 698e836820923a11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.photoView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - 5bf1e53b059c0300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.photoView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - 209ff04e3e1d66c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.photoView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - c49264577328262f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lab_task_squirrel.PhotoViewController"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - f673be25a7b33679"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lab_task_squirrel.PhotoViewController&gt;"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - c492645773282608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lab_task_squirrel.PhotoViewController"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "36783D98-EBBF-4670-9A93-AB7EA693EB02 - f673be25a7b3365e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_task_squirrel.PhotoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lab_task_squirrel.PhotoViewController&gt;"
+                  moduleName = "lab-task-squirrel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrewladanowski/Desktop/lab-task-squirrel/PhotoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
